@@ -40,9 +40,9 @@ Finding the cheapest path (the path with the least total cost) between all pairs
 **Step 7:**
 We build the final edit distance matrix Dm from the computed cost in step 5.
 eg.
-#       PHP 	JS	 HTML
-# PHP  [ 0     x	  y]
-# ECMA [ a     b	  c]
+       PHP 	JS	 HTML
+ PHP  [ 0     x	  y]
+ ECMA [ a     b	  c]
 
 
 **Step 8:**
