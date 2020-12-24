@@ -1,5 +1,11 @@
 # High-demand Job skills prediction
 
+This Project is Divided into 3 major Modules
+
+1. Graph Clustering
+2. Mapping of Evolutionary Clusters
+3. Cluster Time Series Generation and Prediction
+
 Knowledge-based Graph Document Modeling
 
 Reference Paper: https://madoc.bib.uni-mannheim.de/35464/1/schuhmacher14a.pdf
